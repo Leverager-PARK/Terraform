@@ -16,3 +16,6 @@ resource "azurerm_resource_group" "rg" {
   location = "Korea Central"
   name     = "Hamster"
 }
+
+
+dddd
