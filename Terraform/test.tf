@@ -79,20 +79,8 @@ source_image_reference {
     version   = "latest"
   }
 }
-dsfsdkfjskdfjklsjefuisfjkhsjkdf
-
-
-smkdkkjfkosjefiosjfdlkjsidjf
 
 
 
-홍소현 -> 27 / 서주은 24
-고한나 -> 27 / 이지은 24
-유유진 -> 29 / 류지연 25
 
-홍고유(중국) vs 서이류(일본)
-
-박상환 제곱
-
-서이류(클라우드 기술 지원팀)
-
+okokoko
