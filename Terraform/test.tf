@@ -80,7 +80,3 @@ source_image_reference {
   }
 }
 
-
-
-
-okokoko
